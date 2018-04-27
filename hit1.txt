@@ -1,0 +1,3 @@
+hi this is a text file for git learning process.
+this is the first version of the file.
+
